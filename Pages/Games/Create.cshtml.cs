@@ -27,7 +27,6 @@ namespace csci340lab8.Pages_Games
         [BindProperty]
         public Game Game { get; set; } = default!;
 
-        // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
