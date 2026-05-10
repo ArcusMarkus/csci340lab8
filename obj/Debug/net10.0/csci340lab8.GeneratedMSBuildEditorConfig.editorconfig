@@ -34,6 +34,26 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/kenny/csci340lab8/Pages/Games/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kenny/csci340lab8/Pages/Games/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kenny/csci340lab8/Pages/Games/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kenny/csci340lab8/Pages/Games/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kenny/csci340lab8/Pages/Games/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kenny/csci340lab8/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
